@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: git
   respository: https://github.com/Qing-1030/Qing-1030.github.io.git
-  branch: main
+  branch: master
